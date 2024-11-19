@@ -1,0 +1,14 @@
+setup.py
+CameraControl/CameraParams_const.py
+CameraControl/CameraParams_header.py
+CameraControl/MVSCamera.py
+CameraControl/MvCameraControl_class.py
+CameraControl/MvErrorDefine_const.py
+CameraControl/PixelType_const.py
+CameraControl/PixelType_header.py
+CameraControl/StreamFrame_Control.py
+CameraControl/__init__.py
+mvs_camera.egg-info/PKG-INFO
+mvs_camera.egg-info/SOURCES.txt
+mvs_camera.egg-info/dependency_links.txt
+mvs_camera.egg-info/top_level.txt

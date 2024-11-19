@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mvs_camera
+Version: 0.0.1
+Summary: MVS Camera conrol for python
+Author: Mauricio Gonzalez
+Author-email: <ing.mauricioglez1409@outlook.com>
+Keywords: python,first package
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Development
+Classifier: Programming Language :: Python :: 2
+Classifier: Operating System :: Linux :: Linux
+
+ Setup tools using MVS software for asynchronous grab in python
